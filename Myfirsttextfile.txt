@@ -1,0 +1,2 @@
+This is the content I am writing for Explaining how to Open a file in Python
+Thank You, Now My Students able to open files at their home after listening this class
